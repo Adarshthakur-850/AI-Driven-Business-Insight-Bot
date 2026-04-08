@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Driven Business Insight Bot
 
 ## Overview
@@ -63,3 +64,7 @@ streamlit run dashboard/app.py
 docker build -t business-bot .
 docker run -p 8000:8000 -p 8501:8501 business-bot
 ```
+=======
+# AI-Driven-Business-Insight-Bot
+ml project
+>>>>>>> ed75120a829df6c78e73da771cc18eef3a04f8b0
